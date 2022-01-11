@@ -1,0 +1,155 @@
+[
+    {
+        "id":     1,  
+        "nombre": "Milka Oreo",               
+        "precio": 151, 
+        "imagen": "data/Imagenes/milka_oreo.png"
+    },
+
+    {
+        "id":     2,  
+        "nombre": "Marley Blanco",            
+        "precio": 160, 
+        "imagen": "data/Imagenes/marley_blanco.png"
+    },
+
+    {
+        "id":     3,  
+        "nombre": "Marley Negro",             
+        "precio": 160, 
+        "imagen": "data/Imagenes/marley_negro.png"
+    },
+
+    {
+        "id":     4,  
+        "nombre": "Trishot",                  
+        "precio": 141, 
+        "imagen": "data/Imagenes/trishot.jpg"
+    },
+    
+    {
+        "id":     5,  
+        "nombre": "Bonobon Blanco",           
+        "precio": 135, 
+        "imagen": "data/Imagenes/bonobon_blanco.jpg"
+    },   
+
+    {
+        "id":     6,  
+        "nombre": "Bonobon Triple",           
+        "precio": 133, 
+        "imagen": "data/Imagenes/bonobon_triple.jpg"
+    },
+
+    {
+        "id":     8,  
+        "nombre": "Guaymallen Negro",         
+        "precio": 123, 
+        "imagen": "data/Imagenes/guaymallen_negro.jpg"
+    },
+
+    {
+        "id":     9,  
+        "nombre": "Guaymallen Negro Triple",  
+        "precio": 133, 
+        "imagen": "data/Imagenes/guaymallen_negro_triple.jpg"},
+    
+    {
+        "id":     10, 
+        "nombre": "Guaymallen Blanco Triple", 
+        "precio": 133, 
+        "imagen": "data/Imagenes/guaymallen_blanco_triple.jpg"},
+
+    {
+        "id":     11, 
+        "nombre": "Guaymallen blanco",        
+        "precio": 123, 
+        "imagen": "data/Imagenes/guaymallen_blanco.jpg"},
+
+    {
+        "id":     12, 
+        "nombre": "Terrabusi",                
+        "precio": 154, 
+        "imagen": "data/Imagenes/terrabusi.jpg"},
+
+    {
+        "id":     13, 
+        "nombre": "Pepitos",                  
+        "precio": 137, 
+        "imagen": "data/Imagenes/pepitos.jpg"
+    },
+
+    {
+        "id":     14, 
+        "nombre": "Águila minitorta",         
+        "precio": 156, 
+        "imagen": "data/Imagenes/aguila_minitorta.jpg"
+    },
+
+    {
+        "id":     15, 
+        "nombre": "Vauquita",                 
+        "precio": 130, 
+        "imagen": "data/Imagenes/vauquita.jpg"
+    },
+
+    {
+        "id":     16, 
+        "nombre": "Milka dulce de leche",     
+        "precio": 167, 
+        "imagen": "data/Imagenes/milka_dulce_de_leche.jpg"
+    },
+
+    {
+        "id":     17, 
+        "nombre": "Cachafaz",                 
+        "precio": 189, 
+        "imagen": "data/Imagenes/cachafaz.jpg"
+    },
+
+    {
+        "id":     18, 
+        "nombre": "Milka Mousse Blanco",      
+        "precio": 160, 
+        "imagen": "data/Imagenes/milka_mousse_blanco.jpg"
+    },
+
+    {
+        "id":     19, 
+        "nombre": "Águila brownie",           
+        "precio": 190, 
+        "imagen": "data/Imagenes/aguila_minitorta_brownie.jpg"
+    },
+
+    {
+        "id":     20, 
+        "nombre": "Suchard",                  
+        "precio": 150, 
+        "imagen": "data/Imagenes/suchard.jpg"
+    },
+
+    {
+        "id":     21, 
+        "nombre": "Chocoarroz",               
+        "precio": 170, 
+        "imagen": "data/Imagenes/chocoarroz.jpg"
+    },
+
+    {
+        "id":     22, 
+        "nombre": "Jorgelín Negro",           
+        "precio": 160, 
+        "imagen": "data/Imagenes/jorgelin_negro.png"},
+    {
+
+        "id":     23, 
+        "nombre": "Jorgelín Blanco",          
+        "precio": 160, 
+        "imagen": "data/Imagenes/jorgelin_blanco.png"},
+    {
+
+        "id":     24, 
+        "nombre": "Cofler Block",             
+        "precio": 125, 
+        "imagen": "data/Imagenes/cofler_block.png"}
+]
